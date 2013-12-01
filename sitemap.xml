@@ -1,8 +1,44 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://hexoxyq.github.io/blog/2013/12/01/my-desktop-about-mint15-olivia/</loc>
-        <lastmod>2013-12-01T11:19:06+08:00</lastmod>
+        <loc>http://hexoxyq.github.io/blog/2013/08/25/liu-zai-shi-honest/</loc>
+        <lastmod>2013-12-01T11:03:07+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://hexoxyq.github.io/blog/2013/08/25/moved-by-mom/</loc>
+        <lastmod>2013-12-01T11:03:07+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://hexoxyq.github.io/blog/2013/08/26/bu-130823-130824-shenzhen-tu-bu/</loc>
+        <lastmod>2013-12-01T11:03:07+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://hexoxyq.github.io/blog/2013/08/26/running-from-now-on/</loc>
+        <lastmod>2013-12-01T11:03:07+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://hexoxyq.github.io/blog/2013/08/28/yungchiens-dairy/</loc>
+        <lastmod>2013-12-01T11:03:07+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://hexoxyq.github.io/blog/2013/09/05/yungchiens-dairy/</loc>
+        <lastmod>2013-12-01T11:03:07+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://hexoxyq.github.io/blog/2013/09/07/reading-from-now-on/</loc>
+        <lastmod>2013-12-01T11:03:07+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://hexoxyq.github.io/blog/2013/09/21/yungchiens-dairy/</loc>
+        <lastmod>2013-12-01T11:03:07+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://hexoxyq.github.io/blog/2013/10/13/yungchiens-dairy/</loc>
+        <lastmod>2013-12-01T11:03:07+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://hexoxyq.github.io/blog/2013/10/13/yungchiens-dairy2/</loc>
+        <lastmod>2013-12-01T11:03:07+08:00</lastmod>
     </url>
     <url>
         <loc>http://hexoxyq.github.io/robots.txt</loc>
@@ -10,10 +46,10 @@
     </url>
     <url>
         <loc>http://hexoxyq.github.io/</loc>
-        <lastmod>2013-12-01T11:19:06+08:00</lastmod>
+        <lastmod>2013-12-01T11:03:07+08:00</lastmod>
     </url>
     <url>
         <loc>http://hexoxyq.github.io/blog/archives/</loc>
-        <lastmod>2013-12-01T11:19:06+08:00</lastmod>
+        <lastmod>2013-12-01T11:03:07+08:00</lastmod>
     </url>
 </urlset>

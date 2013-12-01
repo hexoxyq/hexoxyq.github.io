@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Reading | A blogging framework for hackers.]]></title>
+  <link href="http://hexoxyq.github.io/blog/categories/reading/atom.xml" rel="self"/>
+  <link href="http://hexoxyq.github.io/"/>
+  <updated>2013-12-01T23:06:24+08:00</updated>
+  <id>http://hexoxyq.github.io/</id>
+  <author>
+    <name><![CDATA[徐永骞]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Reading From Now On]]></title>
+    <link href="http://hexoxyq.github.io/blog/2013/09/07/reading-from-now-on/"/>
+    <updated>2013-09-07T13:21:00+08:00</updated>
+    <id>http://hexoxyq.github.io/blog/2013/09/07/reading-from-now-on</id>
+    <content type="html"><![CDATA[<h3>突然有个想法,为什么不把这些记录下来呢? just like [running].</h3>
+
+<p>正读的
+<div class='bogus-wrapper'><notextile><figure class='code'><figcaption><span>reading record </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='c'><span class='line'><span class="err">暂无</span>
+</span></code></pre></td></tr></table></div></figure></notextile></div>
+读过的
+<div class='bogus-wrapper'><notextile><figure class='code'><figcaption><span>reading record </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='c'><span class='line'><span class="err">黑客与画家</span><span class="p">(</span><span class="n">hackers</span> <span class="n">and</span> <span class="n">painters</span><span class="p">)(</span><span class="n">Paul</span> <span class="n">Graham</span> <span class="err">著</span><span class="p">,</span><span class="err">阮一峰</span> <span class="err">译</span><span class="p">)</span>                <span class="o">/&lt;</span><span class="n">em</span><span class="o">&gt;</span><span class="n">from</span> <span class="mi">20130907</span> <span class="n">to</span> <span class="mi">20131006</span><span class="o">&lt;/</span><span class="n">em</span><span class="o">&gt;/</span>
+</span></code></pre></td></tr></table></div></figure></notextile></div>
+想读的
+<div class='bogus-wrapper'><notextile><figure class='code'><figcaption><span>reading record </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='c'><span class='line'><span class="err">蝇王</span><span class="p">(</span><span class="n">lord</span> <span class="n">of</span> <span class="n">the</span> <span class="n">flies</span><span class="p">)(</span><span class="n">William</span> <span class="n">Golding</span><span class="p">)</span>
+</span></code></pre></td></tr></table></div></figure></notextile></div></p>
+]]></content>
+  </entry>
+  
+</feed>

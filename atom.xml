@@ -4,7 +4,7 @@
   <title><![CDATA[A blogging framework for hackers.]]></title>
   <link href="http://hexoxyq.github.io/atom.xml" rel="self"/>
   <link href="http://hexoxyq.github.io/"/>
-  <updated>2013-12-01T11:23:59+08:00</updated>
+  <updated>2013-12-01T23:06:24+08:00</updated>
   <id>http://hexoxyq.github.io/</id>
   <author>
     <name><![CDATA[徐永骞]]></name>
@@ -14,11 +14,524 @@
 
   
   <entry>
-    <title type="html"><![CDATA[MINT15(Olivia)]]></title>
-    <link href="http://hexoxyq.github.io/blog/2013/12/01/my-desktop-about-mint15-olivia/"/>
-    <updated>2013-12-01T11:17:35+08:00</updated>
-    <id>http://hexoxyq.github.io/blog/2013/12/01/my-desktop-about-mint15-olivia</id>
-    <content type="html"><![CDATA[<p><img src="http://i1299.photobucket.com/albums/ag63/bearxuqian/linux/Screenshot_zps23e70d84.png"></p>
+    <title type="html"><![CDATA[[Dairy]20131013第二篇]]></title>
+    <link href="http://hexoxyq.github.io/blog/2013/10/13/yungchiens-dairy2/"/>
+    <updated>2013-10-13T12:09:00+08:00</updated>
+    <id>http://hexoxyq.github.io/blog/2013/10/13/yungchiens-dairy2</id>
+    <content type="html"><![CDATA[<h3>公告:我写日记一般语无论次,颠三倒四.</h3>
+
+<p>内心渴望与人分享,关键时刻却选择保护自己.所以总在发微博时写完了改,改完了删,最后想来想去,不发了.<br>
+这种感受我不知道是所有性格内向型都有的,还是只我一个人是这样.<br>
+大学时上天涯,玩人人,QQ空间里面写日志.<br>
+毕业后玩微博,微信.<br>
+时代在变,工具在变,不变的是这些东西对我的吸引力不到二星期.<br>
+和大多数人不一样,在SNS大趋势下我认识的人多不起来.朋友就更少了.<br></p>
+
+<p>程序员在分享技术类文章时渴望得到赞同并且希望能够帮助看到文章的人解决问题,<br>
+程序员在写知青类文章时内心像找不出BUG一样无比纠结.<br>
+由此可见,我是一个内向到了一定程度的程序员.<br></p>
+
+<p>看几年前写的博客,词语上觉得青涩,思想上觉得错误,甚至觉得丢人,但是不能否定,不能删除.<br>
+我想从这里开始.<br></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[[Dairy]20131013]]></title>
+    <link href="http://hexoxyq.github.io/blog/2013/10/13/yungchiens-dairy/"/>
+    <updated>2013-10-13T10:55:00+08:00</updated>
+    <id>http://hexoxyq.github.io/blog/2013/10/13/yungchiens-dairy</id>
+    <content type="html"><![CDATA[<h3>公告:我写日记一般语无论次,颠三倒四.</h3>
+
+<p>小时候只喜欢和大我几岁的小叔叔们玩,勾肩搭背是常事.<br>
+有一天爷爷跟我说他看见有那么一个小叔把手上的脏东西搽在我衣服上.<br>
+我当时就纳闷了,不告诉我还好,这告诉我了,以后别人搭我肩膀总喜欢瞄别人的手看.<br>
+爷爷以为我不知道,其实早知道了.<br>
+不过衣服是老妈洗,我又没有洁癖,也就无所谓了.<br></p>
+
+<p>前几天退房的时候也遇到有意思的一件事.<br>
+房东等在查水表门口,等我丢完垃圾特地让我过去看,以证明他没有在水表数上做手脚.<br>
+当时我心里就在想,这个月水费十几块,可电费一百多啊.你咋不让我看电表咧?<br>
+退房前几天房东更换了门禁设备,还把我旧的门卡换了个新的.<br>
+退房的时候我拿着二套门卡(一新一旧,租房的时候是二个人,退房的时候只有我一人了,唉!)和钥匙退押金,房东只退我一套,顺便还诬陷说我那个旧的门卡是我自己在外面配的,还煞有其事地拿旧卡去开门,你看果然打不开吧.<br>
+老天爷遇到这些事情会怎么做呢?<br></p>
+
+<p>父母常常教育我不要吃亏,可在&#8221;有心人&#8221;上窜下跳做几个小动作后这亏就得吃了.<br>
+大学的时候喜欢和朋友争论,有时候争论的问题和双方各自的记忆有关,这是个我迈不去的坎.<br>
+我遇到过,有人说某段话或者某件事是我说/做的或者不是他说/做的,但我记忆中我没有说/做过或者明明是他自己说/做的.<br>
+有时候遇到次数多了会开始自我怀疑,难道我年纪轻轻的慢慢痴呆了又或是潜意识里在推卸责任?<br>
+往往上述种种以我失败告终.这种时候只能感叹一句&#8221;我头上咋没有一个24小时无限容量的高清录音摄像头呢&#8221;?<br>
+所幸这些错误的记忆不像电视剧里那么狗血,不至于冤枉,不委屈,也没发生什么不好的后果.<br>
+最近<font color=red>重温&lt;陈二狗的妖孽人生>,看到开篇陈富贵的二十年装傻,也感受到&#8221;温水煮青蛙&#8221;的意境.</font>我揣测烽火是出于什么样的灵感构思这一剧情的,又是什么样的人呢?<br>
+<font color=red>装傻吃亏其实很有意思,因为明白整个过程,安慰自己只是我不争罢了.<br>
+不过亏大了就没意思了,更加没意思的是不知道在哪里吃亏?往大了想,在中国,老百姓可不就是在吃天大的亏吗?<br>
+由此可知,中国老百姓最没意思了.<br>
+最后一句,聊以自慰,小时候村里人人前说我最老实,人后也许说我憨(傻or蠢?).我想人前说&#8221;大气&#8221;,夸的就是愿意吃亏的.</font><br></p>
+
+<p>刚毕业的时候想这辈子就投身于伟大的嵌入式开发工程中了吧.<br>
+也是那个时候对父母说过这样的话,给我2千块,这辈子不找你们要钱了.<br>
+在迫切有想做的事情或者想改变的时候,总易冲动,冲动时总想打动人心易承诺,承诺总爱扯上一辈子.<br>
+二年后妈妈问我什么时候可以找到工作,我回答不了.<br>
+朋友问我以后做什么,我也回答不了.<br>
+<font color=red>我想若是我有女朋友问我会爱她一辈子吗?我也回答不了吧.<br>
+不发誓不承诺的我话越来越少了,亦越相信&#8221;世事无常&#8221;.我想我回答不了的答案就是这四个字了.</font><br></p>
+
+<p>毕业后找工作只找linux平台驱动开发,其他的一眼也不看.技能不足去培训,底气不足去锻炼,一根筯地找到了.<br>
+二年后再找工作,啥工作我都愿意做,HR一问有没有兴趣,重复简单劳动愿不愿意,我心里就嘀咕,回答这些问题越发虚伪了.<br></p>
+
+<p>这心态的变化是好还是坏呢?<br>
+这一年长辈开始批评我是没有梦想的孩子.<br>
+我一直思考是有多固执让聪明全力以赴以虚伪掩饰的我还被面试官看了出来.<br>
+<font color=red>现在,我放下了梦想,放下了固执</font>,捡起了也许叫**的东西.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[[Dairy]20130921]]></title>
+    <link href="http://hexoxyq.github.io/blog/2013/09/21/yungchiens-dairy/"/>
+    <updated>2013-09-21T23:25:00+08:00</updated>
+    <id>http://hexoxyq.github.io/blog/2013/09/21/yungchiens-dairy</id>
+    <content type="html"><![CDATA[<p>23：08(末班车)  我在深圳地铁，白石龙A出口.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Reading From Now On]]></title>
+    <link href="http://hexoxyq.github.io/blog/2013/09/07/reading-from-now-on/"/>
+    <updated>2013-09-07T13:21:00+08:00</updated>
+    <id>http://hexoxyq.github.io/blog/2013/09/07/reading-from-now-on</id>
+    <content type="html"><![CDATA[<h3>突然有个想法,为什么不把这些记录下来呢? just like [running].</h3>
+
+<p>正读的</p>
+
+<figure class='code'><figcaption><span>reading record </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='c'><span class='line'><span class="err">暂无</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>读过的</p>
+
+<figure class='code'><figcaption><span>reading record </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='c'><span class='line'><span class="err">黑客与画家</span><span class="p">(</span><span class="n">hackers</span> <span class="n">and</span> <span class="n">painters</span><span class="p">)(</span><span class="n">Paul</span> <span class="n">Graham</span> <span class="err">著</span><span class="p">,</span><span class="err">阮一峰</span> <span class="err">译</span><span class="p">)</span>             <span class="cm">/*from 20130907 to 20131006*/</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>想读的</p>
+
+<figure class='code'><figcaption><span>reading record </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='c'><span class='line'><span class="err">蝇王</span><span class="p">(</span><span class="n">lord</span> <span class="n">of</span> <span class="n">the</span> <span class="n">flies</span><span class="p">)(</span><span class="n">William</span> <span class="n">Golding</span><span class="p">)</span>
+</span></code></pre></td></tr></table></div></figure>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[[Dairy]20130904]]></title>
+    <link href="http://hexoxyq.github.io/blog/2013/09/05/yungchiens-dairy/"/>
+    <updated>2013-09-05T22:39:00+08:00</updated>
+    <id>http://hexoxyq.github.io/blog/2013/09/05/yungchiens-dairy</id>
+    <content type="html"><![CDATA[<h3>公告:我写日记一般语无论次,颠三倒四.</h3>
+
+<h3>享受这精疲力竭,挥霍个酣畅淋漓</h3>
+
+<p>才坚持跑步没多久,这连绵的雷雨天突然让我有了&#8221;借口&#8221;&mdash;下着雨呢,还怎么跑?<br>
+不只一次下定决心,但总会有像&#8221;雨天&#8221;这样的困扰.<br>
+<font color=red>不知道从什么时候开始,我学到的是下雨天不能在户外跑了呢?</font><br>
+下着雨在外面跑的话,衣服鞋子会湿吧?明天有可能感冒吧?说不定还有可能被雷电劈了呢?<br>
+<font color=red>今天因为莫名的理由,我跑了,当然&#8221;所付出的代价是巨大的&#8221;!</font><br>
+跑完步回来不知道明天会不会感冒,衣服确实是淋湿了,不过以前跑完步衣服不也一样是湿得透彻吗?<br>
+跑完步回来脱下衣服坐上几分钟,地上两滩水.<br>
+有人总说运动的目的是让今天或者明天精力饱满,让自己感觉很累的跑步方式是没有正面作用的,但我想我就是享受这精疲力竭的感觉了吧!<br></p>
+
+<h3>最后想说的话</h3>
+
+<p>联想前几天夜晚徒步的经历,有所感受.
+因为今天依然碰到了几位在公园运动的人,或骑自行车,或打着球,不管做什么,不管认不认识,我们总算在雨天看见过了.<br>
+我不是惟一半夜徒步的人,不是惟一在雨天跑步的人.<br>
+想起这些,我想我可以战胜孤独,可以更坚定,可以更清醒的认识自己.<font color=red>因为无论在何时何地,有可能看不见,但我知道总有人和我一样做着&#8221;傻事情&#8221;.</font></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[[Dairy]20130828]]></title>
+    <link href="http://hexoxyq.github.io/blog/2013/08/28/yungchiens-dairy/"/>
+    <updated>2013-08-28T23:45:00+08:00</updated>
+    <id>http://hexoxyq.github.io/blog/2013/08/28/yungchiens-dairy</id>
+    <content type="html"><![CDATA[<h3>大学毕业后自私的两年</h3>
+
+<p><font color=red>若人只考虑自身的成长,忽略了周围人的感受,这应该称为自私了吧!</font><br>
+刚毕业的时候,充满激情地给老史打了电话,得以接触嵌入式.过程中对老史说了很多不负责任的话.后来因为考虑到自身技能的成长速度,毅然地跑到深圳参加了培训.<br>
+培训结束从华清出来,马上糊里糊涂地成了fl基础软件部门的实习生,又糊里糊涂地PK掉几人后成功转正.每每想起,惭愧不已.<br>
+面试的时候理直气壮地说不接受加班,现在想想,真的感谢hr给我机会.<br>
+刚进入fl,参加团体活动的时候公开说过需要工作上的帮助,得到工作导师(LF)的回应,给了不成熟的我非常大的安慰.<br>
+曾经一渡想要离开,因为个人电脑没有连接外网,因为部门气氛沉闷,因为主机USB口被封堵,因为想改变生活方式,因为想要考研,因为想要考公务员,因为&hellip;<br>
+<font color=red>人心不想工作的时候,离开的理由是如此的充分</font>,想象的前途也非常的光明.并且最终在攒够1WRMB的时候离开了.<br>
+离开的时候经理(ZHM)再三劝阻&#8221;不知好歹&#8221;的我,体会我一定会走的情况下,还花半天时间和我聊些杂七杂八的事情,不得不说开拓了我的视野.<br>
+但我就是这样,搞砸了一些事情后才意识到自己离开的是一家多么好的公司,搞砸了许多事情后才对我这一年虚度的光阴感到无比的遗憾.</p>
+
+<h3>特别感谢</h3>
+
+<p>接近一年里,在家人都几乎在我身上看不见希望的时候,pxzsddsw和zj这二个朋友一直相信我并鼓励我,给了我许多帮助.<br>
+好基友,一辈子!</p>
+
+<h3>决心</h3>
+
+<p>我将以更成熟的工作态度,更聪明的生活方式,努力地呵护我这一颗honest心!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[2013 Running From Now On]]></title>
+    <link href="http://hexoxyq.github.io/blog/2013/08/26/running-from-now-on/"/>
+    <updated>2013-08-26T23:36:00+08:00</updated>
+    <id>http://hexoxyq.github.io/blog/2013/08/26/running-from-now-on</id>
+    <content type="html"><![CDATA[<p><font color=red><strong>每天一小时.<br>除了曾经虚渡过的光阴,没什么好后悔的!<br>现在想想,有什么是不能失去的呢?<br>贫穷和年轻,使得我们有些想法和行为看起来有些幼稚,但是who care?<br>Remember that sweat and pain makes me happy!</strong></font></p>
+
+<p>
+<img src="http://i1299.photobucket.com/albums/ag63/bearxuqian/CHANNE/photobucket/_zpsec317999.png" title="左脚大脚趾" >
+
+<figure class='code'><figcaption><span>running record 2013年09月 </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+</pre></td><td class='code'><pre><code class='c'><span class='line'><span class="cm">/*2013年09月END*********************************************************/</span>
+</span><span class='line'><span class="mi">20130917</span>  <span class="mi">4</span>
+</span><span class='line'><span class="mi">20130916</span>  <span class="mi">6</span>
+</span><span class='line'><span class="mi">20130912</span>  <span class="mi">6</span>           <span class="p">(</span><span class="err">当右脚趾头也出现几个水泡后</span><span class="p">,</span><span class="err">才明白跑步穿的这双</span><span class="n">NIKE</span><span class="err">鞋大了</span><span class="p">,</span><span class="err">他妈的</span><span class="p">)</span>
+</span><span class='line'>                      <span class="p">(</span><span class="err">顺便吐槽一下</span><span class="p">,</span><span class="err">昨天人生中第一次因为感冒而头晕</span><span class="p">,</span><span class="err">老了唉</span><span class="o">!</span><span class="p">)</span>
+</span><span class='line'><span class="mi">20130910</span>  <span class="mi">6</span>
+</span><span class='line'><span class="mi">20130909</span>  <span class="mi">6</span>
+</span><span class='line'><span class="mi">20130907</span>  <span class="mi">5</span>
+</span><span class='line'><span class="mi">20130906</span>  <span class="mi">5</span>           <span class="cm">/*感觉五脏六腑变重了,累呀*/</span>
+</span><span class='line'><span class="mi">20130905</span>  <span class="mi">5</span>
+</span><span class='line'><span class="mi">20130904</span>  <span class="mi">5</span>
+</span><span class='line'><span class="cm">/*2013年09月START***********************************************************/</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<figure class='code'><figcaption><span>running record 2013年08月 </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+</pre></td><td class='code'><pre><code class='c'><span class='line'><span class="cm">/*2013年08月END*********************************************************/</span>
+</span><span class='line'><span class="mi">20130828</span>  <span class="mi">5</span>
+</span><span class='line'><span class="mi">20130827</span>  <span class="mi">6</span>           <span class="cm">/*这几天22点后运动的人变多*/</span>
+</span><span class='line'><span class="mi">20130826</span>  <span class="mi">3</span> <span class="n">plus</span> <span class="mi">2</span>    <span class="cm">/*中间别休息,去掉plus*/</span>
+</span><span class='line'><span class="cm">/*2013年08月START***********************************************************/</span>
+</span></code></pre></td></tr></table></div></figure>
+
+</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[[补]130823-24深圳徒步with Pxzsddsw]]></title>
+    <link href="http://hexoxyq.github.io/blog/2013/08/26/bu-130823-130824-shenzhen-tu-bu/"/>
+    <updated>2013-08-26T23:20:00+08:00</updated>
+    <id>http://hexoxyq.github.io/blog/2013/08/26/bu-130823-130824-shenzhen-tu-bu</id>
+    <content type="html"><![CDATA[<h3>起因</h3>
+
+<p>从过来深圳开始,一直想找个基友和我一起晚上转一转这个城市.<br>
+以前也有过一个人沿着租房附近的公路转到2,3点的时候,但总归和这次徒步是不一样的,心里也充满了期待.<br>
+<font color=red>计划从租房23点出发,次日6点到达小梅沙.全程大小公路40公里</font></p>
+
+
+<h3>过程</h3>
+
+<p>预料会下雨,带了伞,没想到会这么惨,惨到自己都想骂自己傻*.
+
+<figure class='code'><figcaption><span>深圳徒步with pxzsddsw过程 </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+</pre></td><td class='code'><pre><code class='c'><span class='line'><span class="mi">23</span><span class="err">日</span><span class="mi">23</span><span class="o">:</span><span class="mi">30</span> <span class="err">租房出发</span>
+</span><span class='line'><span class="mi">24</span><span class="err">日</span><span class="mo">00</span><span class="o">:</span><span class="mi">48</span> <span class="err">看见一的士司机在车里吃从家带的盒饭</span><span class="p">(</span><span class="err">宵夜还是晚餐</span><span class="o">?</span><span class="err">天知道</span><span class="p">)</span>
+</span><span class='line'><span class="mi">24</span><span class="err">日</span><span class="mo">02</span><span class="o">:</span><span class="mi">17</span> <span class="err">这段路上到处是垃圾</span><span class="p">,</span><span class="err">脏且臭</span><span class="p">,</span><span class="err">环卫工人出动前的美食街就是这样子吧</span>
+</span><span class='line'><span class="mi">24</span><span class="err">日</span><span class="mo">03</span><span class="o">:</span><span class="mi">39</span> <span class="err">到达六约地铁站</span>
+</span><span class='line'><span class="mi">24</span><span class="err">日</span><span class="mo">04</span><span class="o">:</span><span class="mi">44</span> <span class="err">这段路上好多老人一个人坐在</span><span class="mi">1</span><span class="err">平米的小屋</span><span class="p">(</span><span class="err">怕人动路旁的大货车</span><span class="o">?</span><span class="p">)</span>
+</span><span class='line'><span class="mi">24</span><span class="err">日</span><span class="mo">05</span><span class="o">:</span><span class="mi">50</span> <span class="err">到达盐田隧道</span><span class="p">,</span><span class="err">隧道不允许行人通过</span><span class="p">,</span><span class="err">行程终止</span><span class="o">!</span>
+</span></code></pre></td></tr></table></div></figure>
+
+<font color=red>完成29公里</font></p>
+
+
+<h3>总结</h3>
+
+<ol>
+<li>徒步不是说做就做这么简单,也需要计划.</li>
+<li>相信百度地图搜索出来的行走路线,你就真傻*了(全程逆行公路,信不信由你).</li>
+<li>背包里面装除水(含能量饮料)外的东西,也许是一个错误!</li>
+<li>雷雨天徒步有那么点青春的味道,但事后想想也没啥意思!<font color=red>以后下雨天晚上别出门!</font></li>
+</ol>
+
+
+<figure class='code'><figcaption><span>约定 </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+</pre></td><td class='code'><pre><code class='c'><span class='line'><span class="err">时间</span><span class="o">:</span><span class="err">高三</span>        <span class="err">人物</span><span class="o">:</span><span class="n">YY</span>        <span class="err">事件</span><span class="o">:</span><span class="err">记住单词</span><span class="n">revolution</span>
+</span><span class='line'><span class="err">时间</span><span class="o">:</span><span class="mi">13</span><span class="err">年</span><span class="mi">8</span><span class="err">月</span>     <span class="err">人物</span><span class="o">:</span><span class="n">pxzsddsw</span>  <span class="err">事件</span><span class="o">:</span><span class="err">再见时秀点点腹肌看看</span>
+</span></code></pre></td></tr></table></div></figure>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Moved by Mom]]></title>
+    <link href="http://hexoxyq.github.io/blog/2013/08/25/moved-by-mom/"/>
+    <updated>2013-08-25T22:30:00+08:00</updated>
+    <id>http://hexoxyq.github.io/blog/2013/08/25/moved-by-mom</id>
+    <content type="html"><![CDATA[<h3>回想-leessang</h3>
+
+<p><embed src="http://www.xiami.com/widget/0_1770420743/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed></p>
+
+
+
+
+<figure class='code'><figcaption><span>leessang-回想lyric </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+<span class='line-number'>17</span>
+<span class='line-number'>18</span>
+<span class='line-number'>19</span>
+<span class='line-number'>20</span>
+<span class='line-number'>21</span>
+<span class='line-number'>22</span>
+<span class='line-number'>23</span>
+<span class='line-number'>24</span>
+<span class='line-number'>25</span>
+<span class='line-number'>26</span>
+<span class='line-number'>27</span>
+<span class='line-number'>28</span>
+<span class='line-number'>29</span>
+<span class='line-number'>30</span>
+<span class='line-number'>31</span>
+<span class='line-number'>32</span>
+<span class='line-number'>33</span>
+<span class='line-number'>34</span>
+<span class='line-number'>35</span>
+<span class='line-number'>36</span>
+<span class='line-number'>37</span>
+<span class='line-number'>38</span>
+<span class='line-number'>39</span>
+<span class='line-number'>40</span>
+<span class='line-number'>41</span>
+<span class='line-number'>42</span>
+<span class='line-number'>43</span>
+<span class='line-number'>44</span>
+<span class='line-number'>45</span>
+<span class='line-number'>46</span>
+<span class='line-number'>47</span>
+<span class='line-number'>48</span>
+<span class='line-number'>49</span>
+<span class='line-number'>50</span>
+<span class='line-number'>51</span>
+<span class='line-number'>52</span>
+<span class='line-number'>53</span>
+<span class='line-number'>54</span>
+</pre></td><td class='code'><pre><code class='c'><span class='line'><span class="err">当我母亲怀我的时候，她是坐着睡觉的</span>
+</span><span class='line'><span class="err">这是因为我在踢她；自打在我母亲的腹中，我就是一个麻烦制造者</span>
+</span><span class='line'><span class="err">中学时，我拳打了班长并且把他的脸给弄破了</span>
+</span><span class='line'><span class="err">整整一夜，我母亲在我面前跪着哭泣</span>
+</span><span class='line'><span class="err">至此往后，我不再打架</span>
+</span><span class='line'><span class="err">担心我会变成暴徒，她总是在我离开家之前告诫我不要打架</span>
+</span><span class='line'><span class="err">我疑惑我长大后会成为什么呢</span>
+</span><span class='line'><span class="err">我害怕我会成为像光电鼠标一样，再也不能闯进大世界中</span>
+</span><span class='line'><span class="err">但我依旧有着梦想，在</span><span class="mi">26</span><span class="err">岁的最后时光里，我决定了</span>
+</span><span class='line'><span class="err">我告诉我自己，彷徨和贫穷是任何人在年轻时是都要历经的</span>
+</span><span class='line'><span class="err">我以这样的方式安慰自己，每天夜晚我为了我的梦想，我写着歌</span>
+</span><span class='line'><span class="err">这是我的人生</span>
+</span><span class='line'><span class="err">这是我将要面对的人生</span>
+</span><span class='line'><span class="err">我所不变的生命之歌，歌，歌</span>
+</span><span class='line'><span class="err">反复地起起伏伏</span>
+</span><span class='line'><span class="err">反复地喜悦与哀伤</span>
+</span><span class='line'><span class="err">反复地爱与离别</span>
+</span><span class='line'><span class="err">我的生活就是如此的反复着</span>
+</span><span class='line'><span class="cm">/************************************************************************/</span>
+</span><span class='line'><span class="n">Leessang</span><span class="err">的第一张专辑比我想象中的更为成功</span>
+</span><span class='line'><span class="err">好比流浪的吉普赛人，我从精疲力竭的生活中望见了一丝光亮</span>
+</span><span class='line'><span class="err">不可思议地爱情降临到我的身边</span>
+</span><span class='line'><span class="err">我为她所唱的爱之歌——</span><span class="n">leessang</span> <span class="n">blues</span>
+</span><span class='line'><span class="err">这是我开始写歌以来写得最美的一首</span>
+</span><span class='line'><span class="err">但最终她的婚纱不是为我而穿的</span>
+</span><span class='line'><span class="err">当然，我所犯得过失是巨大的，但事实是如此的冷酷无情。</span>
+</span><span class='line'><span class="err">那个夜晚，我使自己沉浸在酒精之中</span>
+</span><span class='line'><span class="err">彷徨和贫穷是任何人在年轻时是都要历经的</span>
+</span><span class='line'><span class="err">我这样安慰自己，但是痛苦依旧找到我</span>
+</span><span class='line'><span class="err">从魔鬼那骗取而来的钱，好比樱花一样，先是绽放然后凋零</span>
+</span><span class='line'><span class="err">我只得徒手划桨</span>
+</span><span class='line'><span class="err">这是我的人生</span>
+</span><span class='line'><span class="err">这是我将要面对的人生</span>
+</span><span class='line'><span class="err">我所不变的生命之歌，歌，歌</span>
+</span><span class='line'><span class="err">反复地起起伏伏</span>
+</span><span class='line'><span class="err">反复地喜悦与哀伤</span>
+</span><span class='line'><span class="err">反复地爱与离别</span>
+</span><span class='line'><span class="err">我的生活就是如此的反复着</span>
+</span><span class='line'><span class="cm">/************************************************************************/</span>
+</span><span class='line'><span class="err">近来开始的电视放送生活变得越来越有意思</span>
+</span><span class='line'><span class="err">尽管我并没有赚很多钱</span>
+</span><span class='line'><span class="err">从人们那所获得的全部创伤，我用它与人们建立关系</span>
+</span><span class='line'><span class="err">从一直努力到成功的刘在石那儿，我认识到了诚实</span>
+</span><span class='line'><span class="err">我重新唤起自己，让我懒散的音乐变得如此有趣</span>
+</span><span class='line'><span class="err">每一天，我的意志清醒</span>
+</span><span class='line'><span class="err">就像我的经纪人崔理事，每当我申明放弃做音乐时，他都会跑来找我</span>
+</span><span class='line'><span class="err">我是一个重新起跑的选手</span>
+</span><span class='line'><span class="err">彷徨和贫穷是任何人在年轻时是都要历经的</span>
+</span><span class='line'><span class="err">我这样的安慰自己，因为我经历了一切，我不再会被击败</span>
+</span><span class='line'><span class="err">我将痛苦像口香糖那般咀嚼，黑夜重新使我振作，我让我振作起来</span>
+</span><span class='line'><span class="err">反复地起起伏伏</span>
+</span><span class='line'><span class="err">反复地喜悦与哀伤</span>
+</span><span class='line'><span class="err">反复地爱与离别</span>
+</span><span class='line'><span class="err">我的生活就是如此的反复着</span>
+</span></code></pre></td></tr></table></div></figure>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Learning Honest From 刘在石]]></title>
+    <link href="http://hexoxyq.github.io/blog/2013/08/25/liu-zai-shi-honest/"/>
+    <updated>2013-08-25T21:53:00+08:00</updated>
+    <id>http://hexoxyq.github.io/blog/2013/08/25/liu-zai-shi-honest</id>
+    <content type="html"><![CDATA[<h3>honest</h3>
+
+<p>为什么<font color=red>诚实</font>很难?<font color=red>谦逊</font>很难?<br>
+我不想满足于被人感动,想要像&#8221;running man&#8221;里的刘在石那样<font color=red>诚实地生活,也许会错过很多机会,会&#8221;浪费&#8221;很多时间,但是我开始思考那挤出来的时间,那赚来的钱要用来做什么?<br>
+虽然有人会嘲笑,有人会让我困惑.我的时间看起来一点也不宝贵,赚的钱也少得可怜,没到达一定的物质高度的时候,没有承担一个家庭重担的时候,这样的思考有多大意义呢?<br></font>
+但我依然想思考下去,就当作我最后的任性和固执吧.</p>
+
+
+<p><embed src="http://www.xiami.com/widget/0_1771793732/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed></p>
+
+
+
+
+<figure class='code'><figcaption><span>言之命至lyric </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+<span class='line-number'>17</span>
+<span class='line-number'>18</span>
+<span class='line-number'>19</span>
+<span class='line-number'>20</span>
+<span class='line-number'>21</span>
+<span class='line-number'>22</span>
+<span class='line-number'>23</span>
+<span class='line-number'>24</span>
+<span class='line-number'>25</span>
+<span class='line-number'>26</span>
+<span class='line-number'>27</span>
+<span class='line-number'>28</span>
+<span class='line-number'>29</span>
+<span class='line-number'>30</span>
+<span class='line-number'>31</span>
+<span class='line-number'>32</span>
+<span class='line-number'>33</span>
+<span class='line-number'>34</span>
+<span class='line-number'>35</span>
+<span class='line-number'>36</span>
+<span class='line-number'>37</span>
+<span class='line-number'>38</span>
+<span class='line-number'>39</span>
+<span class='line-number'>40</span>
+<span class='line-number'>41</span>
+<span class='line-number'>42</span>
+</pre></td><td class='code'><pre><code class='c'><span class='line'><span class="err">在我二十岁的时候</span> <span class="err">艰难地度过每天</span>
+</span><span class='line'><span class="err">每当不安地躺在床上时</span>
+</span><span class='line'><span class="err">担心着</span> <span class="err">明天做什么</span> <span class="err">明天做什么</span>
+</span><span class='line'><span class="err">即使紧闭双眼也无法入睡</span>
+</span><span class='line'><span class="err">每次郁闷到心都疼痛时</span>
+</span><span class='line'><span class="err">我为什么不行</span> <span class="err">为什么我不行</span> <span class="err">应该成功的…</span>
+</span><span class='line'><span class="cm">/************************************************************************/</span>
+</span><span class='line'><span class="err">言之命至</span> <span class="err">言之命至</span>
+</span><span class='line'><span class="err">不曾相信会成功</span> <span class="err">无法相信…</span>
+</span><span class='line'><span class="err">像决心那样</span> <span class="err">像思考那样</span>
+</span><span class='line'><span class="err">会成功的话就像谎言一样</span> <span class="err">摇摇头</span>
+</span><span class='line'><span class="err">后来有一天</span> <span class="err">虽然渺小但震惊的觉悟奔向了我的心</span>
+</span><span class='line'><span class="err">明天做什么</span> <span class="err">明天做什么</span> <span class="err">应该实现梦想…</span>
+</span><span class='line'><span class="cm">/************************************************************************/</span>
+</span><span class='line'><span class="err">事实上没有一次疯狂地奔跑着</span>
+</span><span class='line'><span class="err">试着去想</span> <span class="err">建立起我的自信</span>
+</span><span class='line'><span class="err">言之命至</span> <span class="err">言之命至</span> <span class="err">会成功的</span>
+</span><span class='line'><span class="err">亲眼所见的那一瞬间应该会相信的吧</span>
+</span><span class='line'><span class="err">像决心那样</span> <span class="err">像思考那样</span>
+</span><span class='line'><span class="err">当知道会成功的那瞬间</span> <span class="err">点点头</span>
+</span><span class='line'><span class="err">像决心那样</span> <span class="err">像思考那样</span>
+</span><span class='line'><span class="err">言之命至</span> <span class="err">会成功的</span>
+</span><span class='line'><span class="cm">/************************************************************************/</span>
+</span><span class='line'><span class="err">无法知道</span> <span class="err">当时也不知道</span>
+</span><span class='line'><span class="err">现在无法倒退也无法前进</span>
+</span><span class='line'><span class="err">曾艰难地我的岁月我的</span><span class="mi">20</span><span class="err">岁</span>
+</span><span class='line'><span class="err">不要停止</span> <span class="err">不要跌倒</span>
+</span><span class='line'><span class="err">向着我的路勇往直前</span>
+</span><span class='line'><span class="err">周围人所说的故事</span>
+</span><span class='line'><span class="err">真应该倾听一次</span>
+</span><span class='line'><span class="err">我心中小小的故事</span>
+</span><span class='line'><span class="err">现在就在我心中</span> <span class="err">言之命至</span>
+</span><span class='line'><span class="err">言之命至</span> <span class="err">言之命至</span>
+</span><span class='line'><span class="cm">/************************************************************************/</span>
+</span><span class='line'><span class="err">所说着会成功</span> <span class="err">所说着会成功</span>
+</span><span class='line'><span class="err">如果你相信的话</span>
+</span><span class='line'><span class="err">像决心那样（就像我的决心那样）</span>
+</span><span class='line'><span class="err">像思考的那样（像你所思考的那样）</span>
+</span><span class='line'><span class="err">挑战是无限的</span>
+</span><span class='line'><span class="err">人生是永恒的</span>
+</span><span class='line'><span class="err">言之命至</span>
+</span><span class='line'><span class="err">言之命至</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+
+
+<!-- more -->
+
+
+<p><embed src="http://player.youku.com/player.php/sid/XNTk1NDI2MjA4/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed></p>
+
 ]]></content>
   </entry>
   
