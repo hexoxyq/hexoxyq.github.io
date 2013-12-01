@@ -3,7 +3,7 @@ layout: post
 title: "[补]130823-24深圳徒步with pxzsddsw"
 date: 2013-08-26 23:20
 comments: true
-categories: [make up, mood]
+categories: 
 ---
 ### 起因 ###
 <p>从过来深圳开始,一直想找个基友和我一起晚上转一转这个城市.<br>

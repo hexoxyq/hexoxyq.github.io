@@ -3,7 +3,7 @@ layout: post
 title: "reading from now on"
 date: 2013-09-07 13:21
 comments: true
-categories: [reading]
+categories: 
 ---
 ### 突然有个想法,为什么不把这些记录下来呢? just like [running]. ###
 正读的

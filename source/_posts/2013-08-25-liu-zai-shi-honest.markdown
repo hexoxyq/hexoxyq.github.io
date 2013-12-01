@@ -3,7 +3,7 @@ layout: post
 title: "Learning honest from 刘在石"
 date: 2013-08-25 21:53
 comments: true
-categories: [quotes, mood]
+categories: 
 ---
 ### honest ###
 <p>为什么<font color=red>诚实</font>很难?<font color=red>谦逊</font>很难?<br>

@@ -3,7 +3,7 @@ layout: post
 title: "2013 running from now on"
 date: 2013-08-26 23:36
 comments: true
-categories: [running]
+categories: 
 ---
 <font color=red>**每天一小时.<br>除了曾经虚渡过的光阴,没什么好后悔的!<br>现在想想,有什么是不能失去的呢?<br>贫穷和年轻,使得我们有些想法和行为看起来有些幼稚,但是who care?<br>Remember that sweat and pain makes me happy!**</font>
 <p>

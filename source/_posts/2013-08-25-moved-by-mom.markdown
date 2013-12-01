@@ -3,7 +3,7 @@ layout: post
 title: "moved by mom"
 date: 2013-08-25 22:30
 comments: true
-categories: [quotes, mood]
+categories: 
 ---
 ### 回想-leessang ###
 <p><embed src="http://www.xiami.com/widget/0_1770420743/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed></p>

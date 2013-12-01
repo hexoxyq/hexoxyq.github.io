@@ -3,7 +3,7 @@ layout: post
 title: "[dairy]20130904"
 date: 2013-09-05 22:39
 comments: true
-categories: [mood]
+categories: 
 ---
 ### 公告:我写日记一般语无论次,颠三倒四. ###
 

@@ -3,7 +3,7 @@ layout: post
 title: "[dairy]20130828"
 date: 2013-08-28 23:45
 comments: true
-categories: [mood]
+categories: 
 ---
 ### 大学毕业后自私的两年 ###
 <font color=red>若人只考虑自身的成长,忽略了周围人的感受,这应该称为自私了吧!</font><br>
